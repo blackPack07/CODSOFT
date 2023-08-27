@@ -1,4 +1,4 @@
-//  CodeSoft Internship Task 01 - NUMBER GAME
+//  CodSoft Internship Task 01 - NUMBER GAME
 
 import java.util.Random;
 import java.util.Scanner;
